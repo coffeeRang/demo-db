@@ -1,9 +1,8 @@
 {
     "profile": [
         {
-            "id": 1,
+            "id": "coffeeRang",
             "name": "DongHyuk-Kim",
-            "githubNickname": "coffeeRang",
             "job": "web developer",
             "skill": [
                 {
