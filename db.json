@@ -1,11 +1,19 @@
 {
-    "posts": [
+    "profile": [
         {
             "id": 1,
-            "title": "hello"
+            "name": "DongHyuk-Kim",
+            "job": "web developer",
+            "skill": [
+                {
+                    "name": "ECMAScript 2015+",
+                    "degree": "75"
+                },
+                {
+                    "name": "Java",
+                    "degree": "80"
+                }
+            ]
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
